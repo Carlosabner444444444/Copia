@@ -2,5 +2,13 @@
 tamaño de caja : cuadrado de borde
 }
 cuerpo{
-Familia Tipografica
-tamaño defuente
+    Familia Tipografica:arial elvetica
+    tamaño defuente:14 pixeles;
+}
+.logo}
+   tamaño de fuente:
+   peso de fuente:
+   espaciado deletras:
+   color:
+   margen:
+   
