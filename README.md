@@ -1,1 +1,2 @@
-creación de 
+*{ 
+: cuadrado de borde
