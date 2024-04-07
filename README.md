@@ -1,2 +1,2 @@
 *{ 
-: cuadrado de borde
+tamaño de caja : cuadrado de borde
